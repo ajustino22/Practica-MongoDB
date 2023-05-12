@@ -1,0 +1,26 @@
+[{
+    "nombre": "Iron Man",
+    "alias": "Tony Stark",
+    "habilidades": ["Es un crack", "Tremendo trage multifunciones"]
+  },
+  {
+    "nombre": "Capitán America",
+    "alias": "Steve Rogers",
+    "habilidades": ["El tio mas fuerte del mundo", "Agilidad aumentada"]
+  },
+  {
+    "nombre": "Thor",
+    "alias": "Thor Odinson",
+    "habilidades": ["Fuerza sobrehumana", "inmortal"]
+  },
+  {
+    "nombre": "Hulk",
+    "alias": "Bruce Banner",
+    "habilidades": ["Fuerza sobrehumana", "Regenera su salud"]
+  },
+  {
+    "nombre": "Viuda Negra",
+    "alias": "Natasha Romanoff",
+    "habilidades": ["Experto en artes marciales", "Habilidades de espionage"]
+  }
+]

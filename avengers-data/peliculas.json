@@ -1,0 +1,26 @@
+[{
+        "titulo": "Los Vengadores",
+        "año_estreno": 2012,
+        "director": "Joss Whedon"
+    },
+    {
+        "titulo": "Los Vengadores: La era de Ultrón",
+        "año_estreno": 2015,
+        "director": "Joss Whedon"
+    },
+    {
+        "titulo": "Los Vengadores: infinity war",
+        "año_estreno": 2018,
+        "director": "Anthony y Joe Russo"
+    },
+    {
+        "titulo": "Los Vengadores: Endgame",
+        "año_estreno": 2019,
+        "director": "Anthony y Joe Russo"
+    },
+    {
+        "titulo": "Spider-Man: No Way Home",
+        "año_estreno": 2021,
+        "director": "Jon Watts"
+    }
+]

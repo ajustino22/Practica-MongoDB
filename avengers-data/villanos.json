@@ -1,0 +1,27 @@
+[
+  {
+    "nombre": "Loki",
+    "alias": "Dios del engaño",
+    "habilidades": ["Proyecta ilusiones", "Cambiaformas"]
+  },
+  {
+    "nombre": "Thanos",
+    "alias": "La meningitis, al que no mata lo deja tonto",
+    "habilidades": ["Fuerza sobrehumana", "Obsesionado con el equilibrio"]
+  },
+  {
+    "nombre": "Ultron",
+    "alias": "",
+    "habilidades": ["Inteligencia artificial", "adaptacion"]
+  },
+  {
+    "nombre": "Red Skull",
+    "alias": "Cara pocha",
+    "habilidades": ["Fuerza aumentada", "Acaba de portero de la gema del alma"]
+  },
+  {
+    "nombre": "El Mandarin",
+    "alias": "No se conoce",
+    "habilidades": ["Es un actor", "Espectácularmente cobarde"]
+  }
+]
