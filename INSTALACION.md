@@ -44,7 +44,7 @@
 ## Explicacion del archivo docker-compose
 
 #### Se define la versión de Docker Compose a utilizar
-version: "3.8"
+    version: "3.8"
 
 #### Se define el servicio de MongoDB
     services:
@@ -69,7 +69,7 @@ version: "3.8"
 #### Se especifica la red a utilizar para el servicio
     networks:
       - mongodb_network
-    # Se exponen los puertos del servicio
+#### Se exponen los puertos del servicio
     ports:
       - 27017:27017
 #### Se define el chequeo de salud del servicio

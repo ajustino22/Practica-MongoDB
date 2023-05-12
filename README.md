@@ -1,12 +1,13 @@
 # MongoDB
 ## Introduccion
 Este proyecto se desarrolla a partir de una práctica en la asignatura de bases de datos en la que se nos pedia:
--Explicar que son las bases de datos no-relacionales
--Explicar ventajas e incombenientes de una base de datos no-relacional MongoDB
--Hacer un manual de la instalacion de MongoDB
--Diseñar una base de datos con, al menos, 3 colecciones y 5 documentos por cada una
--Implementar 2 ejemplos de cada operacion CRUD
--Crear 8 índices diferentes
+
+    -Explicar que son las bases de datos no-relacionales
+    -Explicar ventajas e incombenientes de una base de datos no-relacional MongoDB
+    -Hacer un manual de la instalacion de MongoDB
+    -Diseñar una base de datos con, al menos, 3 colecciones y 5 documentos por cada una
+    -Implementar 2 ejemplos de cada operacion CRUD
+    -Crear 8 índices diferentes
 
 ## El desarrollo del proyecto
 
