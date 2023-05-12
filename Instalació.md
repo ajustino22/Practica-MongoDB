@@ -1,21 +1,39 @@
-# MongoDB
-## Introduccion
-Este proyecto se desarrolla a partir de una práctica en la asignatura de bases de datos en la que se nos pedia:
--Explicar que son las bases de datos no-relacionales
--Explicar ventajas e incombenientes de una base de datos no-relacional MongoDB
--Hacer un manual de la instalacion de MongoDB
--Diseñar una base de datos con, al menos, 3 colecciones y 5 documentos por cada una
--Implementar 2 ejemplos de cada operacion CRUD
--Crear 8 índices diferentes
-
 # Instalación
 
-Para levantar el entorno:
+### Para levantar el entorno:
 
 ```bash
   docker-compose up -d
 ```
-### Explicacion del archivo docker-compose
+
+### Script de inicio y reset
+
+```bash
+  .\Iniciar.sh
+```
+
+### Script de puesta a cero 
+
+```bash
+  .\Destruir.sh
+```
+
+### Entrar en el shell de MongoDB
+
+```bash
+  docker exec -it mongodb bash
+  mongosh
+```
+
+
+### Entrar en el shell de MongoDB
+
+```bash
+  docker exec -it mongodb bash
+  mongosh
+```
+
+## Explicacion del archivo docker-compose
 
 #### Se define la versión de Docker Compose a utilizar
 version: "3.8"
