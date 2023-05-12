@@ -32,6 +32,14 @@
   docker exec -it mongodb bash
   mongosh
 ```
+### Abrir ventana de Mongo-Express
+
+```bash
+  .\Mongo-express.sh
+```
+#### Credenciales Mongo-Express
+    USUARIO: admin
+    CONTRASEÑA: mongo
 
 ## Explicacion del archivo docker-compose
 
